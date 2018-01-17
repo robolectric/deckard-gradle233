@@ -1,9 +1,5 @@
 # Deckard
-<<<<<<< HEAD
-[![Circle CI](https://circleci.com/gh/robolectric/deckard-gradle233.svg?style=svg)](https://circleci.com/gh/robolectric/deckard-gradle233)
-=======
 [![Build Status](https://circleci.com/gh/robolectric/deckard-gradle233.svg?style=svg)](https://circleci.com/gh/robolectric/deckard-gradle233)
->>>>>>> 4ce8323e9ac1e8d0756b4e69911afd79768455af
 
 A copy of the [Deckard](http://github.com/robolectric/deckard-gradle233) that
 uses the Gradle 2.3 plugin. 
