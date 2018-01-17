@@ -1,6 +1,5 @@
 # Deckard
-[![Build Status](https://travis-ci.org/robolectric/deckard.svg?branch=master)](https://travis-ci.org/robolectric/deckard)
-[![Circle CI](https://circleci.com/gh/robolectric/deckard.svg?style=svg)](https://circleci.com/gh/robolectric/deckard)
+[![Build Status](https://circleci.com/gh/robolectric/deckard-gradle233.svg?style=svg)](https://circleci.com/gh/robolectric/deckard-gradle233)
 
 Deckard is the simplest possible Java Android application project that uses Robolectric/Espresso for testing and Gradle to build. It has one Activity, a single Robolectric test of that Activity, and an Espresso test of that Activity.
 
