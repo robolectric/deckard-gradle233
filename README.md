@@ -1,11 +1,11 @@
 # Deckard
 [![Build Status](https://circleci.com/gh/robolectric/deckard-gradle233.svg?style=svg)](https://circleci.com/gh/robolectric/deckard-gradle233)
 
-Deckard is the simplest possible Java Android application project that uses Robolectric/Espresso for testing and Gradle to build. It has one Activity, a single Robolectric test of that Activity, and an Espresso test of that Activity.
+A copy of the [Deckard](http://github.com/robolectric/deckard-gradle233) that
+uses the Gradle 2.3 plugin. 
 
-Deckard imports easily into the latest editions of Android Studio with minimal setup.
-
-*Note: A Kotlin variant of this template is also available [here](https://github.com/seadowg/deckard-kotlin).*
+It is intended to verify that the latest Robolectric still works with the older
+build chain. 
 
 ## Setup
 
@@ -14,7 +14,7 @@ Deckard imports easily into the latest editions of Android Studio with minimal s
 To start a new Android project:
 
 1. Install [Android Studio 2.3](http://developer.android.com/sdk/index.html).
-1. Download Deckard as a zip [here](https://github.com/robolectric/deckard/archive/master.zip) and then extract it on your dev machine.
+1. Download Deckard as a zip [here](https://github.com/robolectric/deckard-gradle233/archive/master.zip) and then extract it on your dev machine.
 
 1. Import the template into Android Studio by clicking "Import project" and selecting the project directory.
 
